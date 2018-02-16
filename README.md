@@ -1,3 +1,8 @@
+#Reflection 4
+## 2/16/2018
+This weekend in computer programming 1, I learned a lot about string manipulation.  Now using python, I am able to take a string and it will rewrite in all capital letters.  I learned how to also make it rewrite in lowercase, and only one letter capitalized, and all but one letter capitalized.  I also learned on accident, that instead of using cd~ to get out of everythin, simply cd works the same, it may only be one character shorter, but it is fantastic for a lazy typer.  I also learned about how to find the number of characters within a certain string, and how to find the middle of a string, using len.  Also I have learned how to create a random number generator, and that using the up arrow can save having to retype alot of things.  Finally, I learned that something I learned in stats class this year was actually usefull using -1**99 to find the last letter of a string, or 1**99 to find the second letter of a string.
+---
+
 #Reflection 3
 ## 2/9/2018
 This week in computer programming 1, I learned the differences and uses for integer, floating point, string, and boolean variables.  Integers, take something and say they are equal to a value.  A floating point is a number with a decimal ex. 5.0.  A string is a string of words, ex "this is a reflection", and a boolean says something is either true or false.  I also learned that when making a mathmatical equation using code, make sure you always use foating point numbers, so that your answers come out correctly if there is a deciml point in the answer.  
