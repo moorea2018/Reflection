@@ -1,3 +1,15 @@
+#Reflection 6
+## 3/1/2018
+This week in computer programming 1, I learned about the while statement.  The while statement is used almost like an if statement, but it keeps looping until whatever it is looking for becomes false.  I also learned how to change the color of my text while working in putty, which I now do everytime before I start coding.  I was at the band trip during the end of last week and the beginning of this week, so I had to teach myself about the and and or statements.  The and is used when you need more than one thing to be true in an if statement.  While the or is used if only one thing is needed to be true.  Finally, I learned that when using the % sign is almost the same as division.  You use it to find out if something is odd or even, by using it with the number 2, and it then looks for any remainders, and if there is a remainder you know that it is odd.
+
+---
+
+#Reflection 5
+## 2/21/2018
+This week in computer programming 1, I learned about if, else, and elif statements.  Learning these, opens another big door into the world of computer programming.  An if statement will allow you to perform an action only if a certain thing occurs.  While using an elif statement after the if statement, will allow you to allow another thing to occur if the otherstatements aren't true.  
+
+---
+
 #Reflection 4
 ## 2/16/2018
 This weekend in computer programming 1, I learned a lot about string manipulation.  Now using python, I am able to take a string and it will rewrite in all capital letters.  I learned how to also make it rewrite in lowercase, and only one letter capitalized, and all but one letter capitalized.  I also learned on accident, that instead of using cd~ to get out of everythin, simply cd works the same, it may only be one character shorter, but it is fantastic for a lazy typer.  I also learned about how to find the number of characters within a certain string, and how to find the middle of a string, using len.  Also I have learned how to create a random number generator, and that using the up arrow can save having to retype alot of things.  Finally, I learned that something I learned in stats class this year was actually usefull using -1**99 to find the last letter of a string, or 1**99 to find the second letter of a string.
