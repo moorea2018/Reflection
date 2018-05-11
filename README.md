@@ -1,6 +1,14 @@
+# Reflection 8
+## 5/11/2018
+Lately in computer programming 1, we have been practicing our coding with code wars, soliving problems that are given.  I have had fun with this because it is more fun when you are given a problem to solve, and after struggling through a problem and finally solving it, it is rewarding.  We worked on our new dice game, adding different rules and regulations to the game.  Each player rolled a nine sidded dice three times in a goal to roll the number 21, and the first person to roll 21 three times was the overall winner.  While I was able to complete this game, I have still been struggling with the def statements, but I hope to work on them this next week in preperation for the final exam.  
+
+---
+
 # Reflection 7
 ## 4/13/2018
 This week in computer programming 1, I learned about def.  Def, short for define is a statement that will allow you to write some code, and then call it back later and it will all run under one line of code.  This was a hard concept to grasp at first, because I saw no need for the use of the def function.  However, after starting over with learning about it I realize the potential it has for helping me in the future.  We also refreshed on the different types of sort this week, and learned how to code each one of them.  It was a good refresher from computer fundamentals 1.  Finally, I  learned another important lesson this week, and that is to read through the homework instructions before you do the homework, so you do not show up to class thinking you have the homework done and find out it doesn't meet the requirements. 
+
+---
 
 #Reflection 6
 ## 3/1/2018
