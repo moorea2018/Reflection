@@ -1,3 +1,9 @@
+# Reflection 9
+## 5/18/2018
+Finally the last week of Computer Programming 1.  Through out the semester, this class has been harder than I had initially expected.  Many times, I have thought the homework would be easy, and was easily mistaken.  While I may not do anything else with computer programming later in life, this was still a fun class to take.  The hardest concept for me to learn and use this year, was the def statements.  My favorite part of this year was probably the dice game problem eventhough I had a tought time with it.  Eventhough this was a good class, I am glad it is over.  But don't worry I'm glad every class is over.  
+
+---
+
 # Reflection 8
 ## 5/11/2018
 Lately in computer programming 1, we have been practicing our coding with code wars, soliving problems that are given.  I have had fun with this because it is more fun when you are given a problem to solve, and after struggling through a problem and finally solving it, it is rewarding.  We worked on our new dice game, adding different rules and regulations to the game.  Each player rolled a nine sidded dice three times in a goal to roll the number 21, and the first person to roll 21 three times was the overall winner.  While I was able to complete this game, I have still been struggling with the def statements, but I hope to work on them this next week in preperation for the final exam.  
